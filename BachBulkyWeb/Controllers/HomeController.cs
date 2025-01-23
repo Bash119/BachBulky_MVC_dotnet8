@@ -1,5 +1,6 @@
 using System.Diagnostics;
-using BachBulkyWeb.Models;
+
+using Bulky.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BachBulkyWeb.Controllers

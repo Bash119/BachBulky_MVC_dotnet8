@@ -1,7 +1,7 @@
-﻿using BachBulkyWeb.Models;
+﻿using Bulky.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BachBulkyWeb.Data
+namespace Bulky.DataAccess.Data
 {
     public class ApplicationDbContext:DbContext
     {
